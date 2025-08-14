@@ -1,0 +1,8 @@
+# Ren'Py
+# NOTE: Partly taken from
+# https://github.com/renpy/renpy/blob/fd580614223bbd2c032fd93b3967e09dc444b265/.gitignore#L23-L37
+
+# Compiled Ren'Py files.
+*.rpyc
+*.rpyb
+*.rpymc
